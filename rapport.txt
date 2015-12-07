@@ -1,0 +1,5 @@
+J'ai écris un algorithme puis une application en langace C qui demande une phrase sans ponctuation de 26 lettres 
+maximum à l'utilisateur, cette phrase est stockée dans un tableau de caractères. On demande ensuite quel est le 
+décalage à utiliser et on code le message selon ce principe. Le codage est effectuer au niveau de la variable
+stockant la phrase, et pas seulement à l'écran.
+De plus l'application permet de decrypter la phrase codée pour l'afficher en clair et vérifier l'application.

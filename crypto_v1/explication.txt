@@ -1,0 +1,8 @@
+    /* Explication de la conversion pour un caractere minuscule
+
+        texte[i] - 'a'                           -> on recupere un nombre represantante le caractere contenue
+                                                    dans texte[i] (0=a, 1=b, ...)
+        (texte[i] - 'a') + decallage             -> on lui applique le decallage
+        ((texte[i] - 'a') + decallage)%26        -> on fait %26 pour revenir au debut si on a depasser 'z'
+        'a' + ((texte[i] - 'a') + decallage)%26  -> on retrouve le bon caractere en ajoutant 'a'
+    */

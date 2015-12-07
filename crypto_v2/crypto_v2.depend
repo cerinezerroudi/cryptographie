@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1417554776 source:c:\users\kevin\desktop\crypto_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1418740562 source:f:\bts_sio\ppe\ppe1-mission m2l-phase 1\mon_travail\crypto_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+
